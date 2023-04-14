@@ -1,0 +1,15 @@
+name: snowpark_pyladies
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+dependencies:
+  - python=3.8
+  - pip
+  - conda:
+    - snowflake-snowpark-python==1.1.0
+    - scikit-learn==1.2.0
+    - pandas==1.4.4
+    - notebook==6.5.2
+    - cachetools==4.2.2
+
+  - pip:
+    - streamlit==1.19.0
