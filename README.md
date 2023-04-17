@@ -1,6 +1,6 @@
 # An introduction to Data Science using Snowflake 
 
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: [Introduction to Data Science with Snowflake](workshop/intro-to-ds-with-snowflake.pdf)
 
 ## Workshop description
 
