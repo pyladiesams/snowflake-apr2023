@@ -1,0 +1,9 @@
+{
+  "account"   : "",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "PYLADIES_L",
+  "database"  : "PYLADIES_DB",
+  "schema"    : "PYLADIES_SCHEMA"
+}
